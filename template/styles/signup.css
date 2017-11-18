@@ -1,0 +1,40 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url(../images/bgimgg.jpg);
+    height: 100%;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    font-family: sans-serif;
+}
+
+.signupContainer{
+    margin-top: 30px;
+}
+
+form{
+    width: 30%;
+    margin-left: 35%;
+    margin-top: 20px;
+}
+
+.signup{
+    margin-top: 10%;
+}
+
+header{
+    font-family: 'Pacifico', sans-serif;
+}
+
+input[type="text"],input[type="password"],input[type="tel"],select{
+    border:none;
+    border-radius: 0px;
+    opacity:0.6;
+}
+
+.btn{
+    border:none;
+
+}
