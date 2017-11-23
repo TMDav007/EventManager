@@ -1,0 +1,84 @@
+body{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+    background-color: #fff;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: sans-serif;
+}
+
+.loginConatainer{
+   viewport: 100%;
+}
+
+p#loginTitle{
+    margin-bottom: 20px;
+    padding: 0 0 20px;
+    color: rgba(206, 200, 188, 0.88);
+    text-align: center;
+    font-family: 'Pacifico', sans-serif;
+    font-size: 23px;
+    font-weight: bold;
+}
+
+form#loginForm{
+    position: relative;
+    left: 1em;
+}
+
+/*.loginBox #loginText,
+.loginBox #loginPassword{
+    width: 100%;
+    margin-bottom: 20px;
+    border:none;
+    border-bottom: 1px solid #fff;
+    background: transparent;
+    outline:none;
+    height: 40px;
+    color: #fff;
+    font-size: 16px;
+}
+
+::placeholder{
+    color:rgba(255,255,255,0.5);
+}
+
+.loginBox #loginSubmit{
+    width: 100%;
+    margin-bottom: 20px;
+    border: none;
+    outline: none ;
+    height: 40px;
+    color: #fff;
+    font-size: 16px;
+    background: #203927;
+    cursor: pointer;
+    border-radius: 20px;
+}
+
+.loginBox #loginSubmit:hover{
+    opacity: 0.8;
+    
+}
+
+.loginBox #newAccount {
+    color: #fff;
+    font-size: 14px;
+    text-decoration: none;
+    display: inline;
+}
+
+#signUp {
+    color: #fff;
+    font-size: 14px;
+    font-weight: bold;
+    text-decoration: none;
+    margin-left: 20px;
+}
+
+.loginBox #signUp:hover {
+    opacity: 0.5;
+} */
+
